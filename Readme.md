@@ -42,6 +42,8 @@ ros2 run foundation_pose foundation_pose
 ```
 ros2 run image_viewer_foundation_pose image_viewer_foundation_pose
 ```
+#### video
+https://youtu.be/s0O2c_9OnE8
 # Running Foundation pose with realsense (not working)
 1. run container for realsense
 2. inside container run
