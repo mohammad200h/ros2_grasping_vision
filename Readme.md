@@ -17,7 +17,7 @@ To setup all the workspaces run the following commands:
 
 Then navigate to each foundation_pose, g_sam and realsense to create docker images and containers.
 
-# Running Foundation pose using fake_realsense
+# Running Foundation pose using fake_realsense (working)
 
 1. run container for g_sam_ws
 2. inside container spawn fake_realsense
@@ -42,7 +42,7 @@ ros2 run foundation_pose foundation_pose
 ```
 ros2 run image_viewer_foundation_pose image_viewer_foundation_pose
 ```
-# Running Foundation pose with realsense
+# Running Foundation pose with realsense (not working)
 1. run container for realsense
 2. inside container run
 ```
