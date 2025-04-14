@@ -1,4 +1,4 @@
-mkdir foundationpose_ws && mkdir mkdir foundationpose_ws/src && cd foundationpose_ws/src && \
+mkdir foundationpose_ws && mkdir foundationpose_ws/src && cd foundationpose_ws/src && \
 git clone git@github.com:mohammad200h/image_viewer_foundation_pose.git && \
 git clone git@github.com:mohammad200h/foundation_pose_interfaces.git && \
 git clone git@github.com:mohammad200h/foundation_pose.git
